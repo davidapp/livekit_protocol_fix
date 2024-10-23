@@ -1,4 +1,4 @@
-module github.com/livekit/protocol
+module github.com/davidapp/livekit_protocol_fix
 
 go 1.22
 
